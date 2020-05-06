@@ -4,7 +4,6 @@ import {
   CSSReset,
   ColorModeProvider,
 } from "@chakra-ui/core";
-import Navbar from "../components/Navbar";
 
 function MyApp({ Component, pageProps }) {
   return (

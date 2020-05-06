@@ -10,7 +10,6 @@ import {
   Grid,
 } from "@chakra-ui/core";
 import Form from "../components/Form";
-import Hero from "../components/Hero";
 import LogoPlace from "../components/LogoPlace";
 
 const index = () => {
