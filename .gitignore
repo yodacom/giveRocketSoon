@@ -28,7 +28,7 @@ yarn-error.log*
 # secrets - staging
 .env.build
 .env
-
+next.config.js
 # functions
 
 ## Compiled JavaScript files
